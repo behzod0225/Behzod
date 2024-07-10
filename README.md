@@ -1,7 +1,7 @@
 # lesson8
 Topshiriq-2 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB6emE2OG9kdGpycDZmdnhzMDZpb3Y4ZmQ2b2ZtbDQ4MmkyczRrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif?cid=ecf05e47dbjzwcg28tdqqr0jup2632mg7dn447y2as9zyynx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700" />
 </div>
 <hr>
 <div id="badges" align="center">
@@ -26,7 +26,7 @@ Topshiriq-2
 ###
 
 <h1 align="center">
-  hey there
+  Ranaldo gif
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -37,16 +37,17 @@ Topshiriq-2
 ---
 
 
-### 🖥 About me:
+### 🖥 Men haqimda:
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Men dasturiy ta'minot muhandisi sifatida ishlayapman va veb-ilovalarni yaratish uchun frontend va backendga hissa qo'shyapman.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: 
+Texnik tarkib yozishni o'rganish.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Bo'sh vaqtimda GeeksforGeeks-da muammolarni hal qilaman va texnologik maqolalarni o'qiyman.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/shohabbosdev)
+- :mailbox:Menga qanday erishish mumkin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://instagram.com/behzod.o2v)
 
 ###
 
