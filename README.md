@@ -1,11 +1,11 @@
 # lesson8
 Topshiriq-2 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT1XGVp95GDPgFYmUE/giphy.gif?cid=ecf05e47dbjzwcg28tdqqr0jup2632mg7dn447y2as9zyynx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700" />
+  <img src="https://media.giphy.com/media/23g5TbXG6KxCRSPX9z/giphy.gif?cid=ecf05e475h1ktqp0pvksdrvqeptsijfskhjbmlpri97oojwr&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700" />
 </div>
 <hr>
 <div id="badges" align="center">
-  <a href="https://t.me/Aliy">
+  <a href="https://t.me/Behzod Xakimov">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Bu telegram badges">
   </a>
   <a href="https://youtube.com/@behzodxakimov">
