@@ -32,7 +32,7 @@ MacBook
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB0c3UzaWFxdHd3OXkybmI4YnU4bHdkY29yazR5MHB4cjN6dGdtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" />
+  <img src="https://media.giphy.com/media/3otO6zntMrmhpvaYX6/giphy.gif?cid=ecf05e47lk581qlsjm2hesj8bjlq8iwbvoys7zzmkzjd0kd6&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 ---
